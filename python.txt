@@ -1,0 +1,37 @@
+STATEMENT
+Statement = A Statement is an instruction that an python interpreter can excecute
+(we can say any thing in PYTHON is written as a statement)
+eg for statements 
+   assignment statement
+   if statement
+   for statement
+   while statement
+   etc
+
+for comment use this symbol (#):
+    This comments describes what code is doing so other
+    people can understand it.
+    
+Can use multiple statement in a single line separated by semicolons 
+
+To create List use square barckets []
+To create a Dictionary use curly {}
+
+del statement
+    The del statement is used to delete the object or variables
+    once it is deleted we cant access it
+return statement 
+    This is used in the function to perform the specific task 
+    the function can return a value that is nothing but an output of function execution
+    Using the return statement we can return a value from the function when it is called 
+
+break Statement this is used inside the loop to exit out of the loop
+continue statement This skips the current iteration and move to the next iteration
+
+python keyword
+
+Variables 
+A variables is a reseved memory area (memory address) to store value 
+every thing in python is treated as an object so a varibale is an object in python
+We can assign a value to the variable at the time variable is created we can use the 
+assignment opertor = to assign the value to a variable
